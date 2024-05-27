@@ -1,0 +1,6 @@
+,default, gridsearch, no sex, no (sex - ggt), no (sex - ggt - chol), no (sex - ggt - chol - bil)
+LRM,0.8943, 0.8943, 0.8861, 
+DTM, 0.8780, 0.8780, 0.8537,
+RFM, 0.8618, 0.8537,
+SGDM, 0.8699, 0.8780,
+SVMM, 0.8699,0.8699, 
